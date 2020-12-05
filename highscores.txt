@@ -1,0 +1,11 @@
+Van 2 50
+Van 3 49
+Tyler 1 48
+Jorge 1 47
+Van 1 42
+Van 1 40
+Tyler 1 38
+Van 1 38
+Van 1 37
+Van 1 31
+STOP 0 0

@@ -1,5 +1,6 @@
 # bitblaster-game
 Author: Van Abbott
+
 Instructions for Blasters:
 		Controls:
 		The "a" and "d" keys control the spaceship's side to side movement.
